@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-struct da
+struct d
 {
     int max[10],a1[10],need[10],before[10],after[10];
 }p[10];

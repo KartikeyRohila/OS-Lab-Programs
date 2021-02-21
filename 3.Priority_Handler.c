@@ -3,7 +3,7 @@
 int main()
 {
     int processes,total=0,pos,temp;
-    float avg_wait,avg_turn;
+    float avg_wait,avg_tur;
     int burst[20],p[20],waiting[20],turnaround[20],priority[20];
     printf("Enter Total Number of Process : ");
     scanf("%d",&processes);
