@@ -52,7 +52,7 @@ void interrupt_handler(int n)
         }
         else
         {
-            printf("\nProcess %d execute",i);
+            printf("\nProcess %d executed",i);
             i++;
         }
     }

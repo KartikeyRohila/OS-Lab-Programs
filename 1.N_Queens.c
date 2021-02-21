@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 
-int board[20],coun;
+int board[20],count;
 
 void PrintSolution(int n)
 {
